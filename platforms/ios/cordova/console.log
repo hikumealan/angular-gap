@@ -1,0 +1,7 @@
+2013-09-09 12:04:12.921 AngularGap[2767:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-09 12:04:14.537 AngularGap[2767:c07] [CDVTimer][splashscreen] 257.924974ms
+2013-09-09 12:04:14.538 AngularGap[2767:c07] [CDVTimer][TotalPluginStartup] 258.521020ms
+2013-09-09 12:04:14.722 AngularGap[2767:c07] Resetting plugins due to page load.
+2013-09-09 12:04:15.196 AngularGap[2767:c07] Finished load of: file:///Users/bolson/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/1C38202D-D308-43CF-BA50-77A2ED94E36A/AngularGap.app/www/index.html
+2013-09-09 12:04:15.255 AngularGap[2767:c07]   Received Event: deviceready
+Terminating in response to SpringBoard's termination.
